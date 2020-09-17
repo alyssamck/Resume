@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  color: #33485e;
+  font-size:36px;
+}
+  <title>Alyssa's Resume</title>
+</style>
+</head>
+<body>
+  <!-- I built this myself! -->
+  <h1>Alyssa McKinney</h1>
+  <img src="pic (2).jpg" style="width:300px">
+  <p><strong>Student</strong></p>
+  <ul>
+    <li><a href="mailto:alyssa.cmck@gmail.com">alyssa.cmck@gmail.com</a></li>
+    <li><a href="https://www.linkedin.com/in/alyssamckinney/">LinkedIn</a></li>
+    <li><a href="https://github.com/alyssamck">GitHub</a></li>
+  </ul>
+  <h2>Experience</h2>
+  <h3>Consulting Intern</h3>
+  <h4>Guidehouse</h4>
+  <h5>June 2020 - August 2020</h5>
+  <p>Working in the Energy, Sustainability, and Infrastructure sector I supported a project management team overseeing our client’s operation by auditing and editing client deliverables. I identified several key internal processes that would benefit from automation and subsequently wrote automation codes to boost efficiency throughout the remainder of the project. I also participated in media research and briefed leadership on data analysis and imputation as well as the associated media risks and controversies.</p>
+  <h3>Student Consultant</h3>
+  <h4>Lockheed Martin</h4>
+  <h5>February 2020 - May 2020</h5>
+  <p>I worked on a 5-member team connected to Lockheed Martin through the QUEST Honors Program at UMD to improve signal-processor production efficiency. My team reduced the number of production delays by 850 hours per new program, developed a plan to improve operations through data collection and analysis, and recommended process changes to improve team communication.</p>
+  <h3>Opinion Columnist</h3>
+  <h4>The Diamondback</h4>
+  <h5>August 2018 - August 2019</h5>
+  <p>I wrote weekly opinion articles for The Diamondback, an award-winning independent student newspaper at UMD. I covered a variety of topics, focusing primarily on local environmental, political, and humanitarian issues. I gathered and analyzed data from official sources in order to inform my articles and bring light to important issues.</p>
+  <h3>Electrical Engineering Intern</h3>
+  <h4>Comparative Innovations</h4>
+  <h5>January 2018 - April 2019</h5>
+  <p>As an intern full-time over the summer and part-time during the school year, I designed, built, and programmed key circuitry to increase technological functionality. I developed virtual instruments using LabVIEW and LINX to operate electronics and collect data. I also used field testing and data analysis to optimize power systems.</p>
+  <h2>Education</h2>
+  <ul>
+    <li>Bachelor of Science, Electrical Engineering, UMD, 2021</li>
+    <li>Bachelor of Arts, Multiplatform Journalism, UMD, 2021</li>
+  </ul>
+  <h2>Skills</h2>
+  <ul>
+    <li>Process automation with Excel VBA</li>
+    <li>Data analysis with Excel and Python</li>
+    <li>Professional writing</li>
+</body>
 
-You can use the [editor on GitHub](https://github.com/alyssamck/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alyssamck/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>

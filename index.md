@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -46,6 +45,3 @@ h1 {
     <li>Process automation with Excel VBA</li>
     <li>Data analysis with Excel and Python</li>
     <li>Professional writing</li>
-</body>
-
-</html>
